@@ -7,4 +7,4 @@
 1. https://www.acmicpc.net/problem/13460
 
 ### DFS
-2. https://www.acmicpc.net/problem/10026
+2. https://www.acmicpc.net/problem/1520
